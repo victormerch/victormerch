@@ -1,4 +1,4 @@
-## Hi, how are you?🖐️
+## Hi, how are you?👋
 - 😎 I am Software Developer with a passion for the new tecnologies and Data Science
 - 📨 Shot me an Email or add me on Linkedin :)
 ## 🌐 Socials:
