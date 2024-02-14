@@ -1,5 +1,5 @@
 ## Hi, how are you?👋
-- 😎 I am Data Science with a big passion for the new tecnologies
+- 😎 I am Data Scientist with a big passion for the new tecnologies
 - 📨 Shot me an Email or add me on Linkedin :)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vmvdev/) 
